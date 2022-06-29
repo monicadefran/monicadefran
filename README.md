@@ -1,4 +1,10 @@
-### Hi there 👋
+###  🌈 Hi I am Monica 👋 👩🏽‍💻
+```javascript
+const moni = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Python],
+  tools: [React, Angular],
+```
 
 <!--
 **monicadefran/monicadefran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
