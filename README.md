@@ -8,6 +8,10 @@ const monica = {
 ```
 [![monicadefran's GitHub stats](https://github-readme-stats.vercel.app/api?username=monicadefran&show_icons=true&theme=radical)](https://github.com/monicadefran/github-readme-stats)
 
+I'm a self-taught passionate FrontEnd developer from Spain:
+- 🔭 I’m currently finising my Phd
+- 🌱 I’m currently working in a personal profolio
+- 📄 To know more about my last articles <a href="https://www.linkedin.com/in/monica-sanchez-de-francisco/"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="15" title="LinkedIn"/></a>
 
 <!--
 **monicadefran/monicadefran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
