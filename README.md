@@ -5,6 +5,8 @@ const monica = {
   code: [Javascript, Typescript, HTML, CSS, Python],
   tools: [React, Angular],
 ```
+[![monicadefran's GitHub stats](https://github-readme-stats.vercel.app/api?username=monicadefran)](https://github.com/monicadefran/github-readme-stats)
+
 
 <!--
 **monicadefran/monicadefran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
