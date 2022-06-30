@@ -1,6 +1,6 @@
 ###  🌈 Hi I am Monica 👋 👩🏽‍💻
 ```javascript
-const moni = {
+const monica = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, Python],
   tools: [React, Angular],
