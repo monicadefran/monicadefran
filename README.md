@@ -6,7 +6,7 @@ const monica = {
   statistics: [Python,R]
   tools: [React, Angular],
 ```
-[![monicadefran's GitHub stats](https://github-readme-stats.vercel.app/api?username=monicadefran)](https://github.com/monicadefran/github-readme-stats)
+[![monicadefran's GitHub stats](https://github-readme-stats.vercel.app/api?username=monicadefran&show_icons=true&theme=radical)](https://github.com/monicadefran/github-readme-stats)
 
 
 <!--
