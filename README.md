@@ -2,7 +2,8 @@
 ```javascript
 const monica = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Python],
+  code: [Javascript, Typescript, HTML, CSS],
+  statistics: [Python,R]
   tools: [React, Angular],
 ```
 [![monicadefran's GitHub stats](https://github-readme-stats.vercel.app/api?username=monicadefran)](https://github.com/monicadefran/github-readme-stats)
