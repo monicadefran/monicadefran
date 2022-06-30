@@ -3,8 +3,9 @@
 const monica = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS],
-  statistics: [Python,R]
-  tools: [React, Angular],
+  statistics: [Python,R],
+  tools: [React, Angular]/*I am a beginner*/ 
+  }
 ```
 [![monicadefran's GitHub stats](https://github-readme-stats.vercel.app/api?username=monicadefran&show_icons=true&theme=radical)](https://github.com/monicadefran/github-readme-stats)
 
