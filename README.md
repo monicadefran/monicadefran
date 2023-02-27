@@ -2,7 +2,7 @@
 ```javascript
 const monica = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS],
+  code: [Javascript, Typescript, HTML, CSS, Python],
   statistics: [Python,R],
   tools: [React, Angular]/*I am a beginner*/ 
   }
