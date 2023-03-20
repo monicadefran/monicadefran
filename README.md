@@ -7,7 +7,7 @@ const monica = {
   tools: [React, Angular]/*I am a beginner*/ 
   }
 ```
-[![monicadefran's GitHub stats](https://github-readme-stats.vercel.app/api?username=monicadefran&show_icons=true&theme=radical)](https://github.com/monicadefran/github-readme-stats)
+[![monicadefran's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=monicadefran&show_icons=true&theme=radical)](https://github.com/monicadefran/github-readme-stats)
 
 I'm a self-taught passionate FrontEnd developer and a Python Data Lover from Spain:
 - 🔭 I finished my Phd
