@@ -4,7 +4,7 @@ const monica = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, Python],
   statistics: [Python,R],
-  tools: [React, Angular]/*I am a beginner*/ 
+  tools: [mern stack (Mongo, Exprex, React, Node ]/*I am a beginner*/ 
   }
 ```
 [![monicadefran's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=monicadefran&show_icons=true&theme=radical)](https://github.com/monicadefran/github-readme-stats)
