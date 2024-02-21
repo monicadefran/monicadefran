@@ -2,9 +2,9 @@
 ```javascript
 const monica = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Python, Java],
+  code: [Javascript, HTML, CSS, Python, Java],
   statistics: [Python,R],
-  tools: [mern stack (Mongo, Exprex, React, Node )]
+  tools: [mern stack (Mongo, Express, React, Node )]
   }
 ```
 [![monicadefran's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=monicadefran&show_icons=true&theme=radical)](https://github.com/monicadefran/github-readme-stats)
